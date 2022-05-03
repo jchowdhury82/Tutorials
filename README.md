@@ -10,3 +10,4 @@ This notebook shows 15 ways of creating / initializing a Pandas DataFrame from d
 
 ## Part 2 - Pandas Ground Zero Slicing
 Short notebooks showing basic core concepts of Pandas related to Indexing, Filtering,Selecting and Projecting Data.
+[Pandas Ground Zero - Index, Select, Project](https://github.com/jchowdhury82/Tutorials/tree/main/Notebooks/Pandas_Ground_Zero_Slicing)
